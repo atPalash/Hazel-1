@@ -1,6 +1,6 @@
 #include <Hazel.h>
 
-#include "imgui/imgui.h"
+#include "imgui.h"
 
 class ExampleLayer : public Hazel::Layer
 {
